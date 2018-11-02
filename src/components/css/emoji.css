@@ -1,0 +1,12 @@
+p {
+  padding: 5px;
+  margin: 5px;
+}
+
+.grid {
+  border: 1px solid #c3c3c3;
+  display: -webkit-flex; /* Safari */
+  -webkit-flex-wrap: wrap; /* Safari 6.1+ */
+  display: flex;
+  flex-wrap: wrap;
+}

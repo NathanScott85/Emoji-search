@@ -1,0 +1,13 @@
+div {
+  margin: auto;
+  width: 75%;
+  padding: 10px;
+}
+.element {
+  padding-right: 10px;
+}
+/* input {
+  position: relative;
+  display: block;
+  margin: 0 auto;
+} */
